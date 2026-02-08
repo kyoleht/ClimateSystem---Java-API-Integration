@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Environment-dependent path to Maven home directory
+/mavenHomeManager.xml
+
+# Arquivos de compilação do Java
+*.class
+*.jar
+!lib/*.jar
+
+# Configurações do VS Code
+.vscode/
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+out/
+
+# Arquivos temporários do Sistema Operacional
+Thumbs.db
+.DS_Store

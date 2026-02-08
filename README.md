@@ -30,22 +30,22 @@ Java Development Kit (JDK) instalado.
 O arquivo json-20230618.jar deve estar presente na pasta lib.
 
 Compilação e Execução via Terminal
+
 Para compilar o projeto incluindo as dependências manuais:
-
-Bash
-
 javac -cp ".;lib/json-20230618.jar" src/ClimateSystem.java
+
 Para executar a aplicação:
-
-Bash
-
 java -cp ".;lib/json-20230618.jar;src" ClimateSystem
+
 Estrutura de Diretórios
 Plaintext
 
 ├── lib/            # Dependências externas (.jar)
+
 ├── src/            # Código-fonte (.java)
+
 ├── .gitignore      # Regras de versionamento
+
 └── README.md       # Documentação do projeto
 
 Por que esta estrutura é criativa?

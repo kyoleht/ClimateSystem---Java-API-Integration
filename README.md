@@ -47,6 +47,7 @@ Plaintext
 ├── src/            # Código-fonte (.java)
 ├── .gitignore      # Regras de versionamento
 └── README.md       # Documentação do projeto
+
 Por que esta estrutura é criativa?
 Uso de Linhas Divisoras: Cria uma separação clara entre o que o projeto é e como ele funciona.
 

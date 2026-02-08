@@ -1,0 +1,1 @@
+ClimateSystem: Sistema em Java para consulta meteorológica em tempo real via WeatherAPI. Utiliza HttpClient para requisições HTTP, URLEncoder para tratamento de dados e a biblioteca org.json para parsing de objetos complexos. Exibe temperatura, umidade e condições climáticas via terminal, com foco em manipulação de APIs e JSON.
